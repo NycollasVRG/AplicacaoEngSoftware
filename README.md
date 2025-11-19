@@ -1,2 +1,2 @@
 # AplicacaoEngSoftaware
-deidicado a faculdade
+dedicado a faculdade
